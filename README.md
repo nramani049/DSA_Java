@@ -6,7 +6,7 @@ This repository currently contains:
 
 - `sum_array.java`, a Java example for summing array values.
 - `sum_array.class`, the compiled version of the example.
-- `BCA_JAVA.zip`, an archive of the related Java project material.
+- `BCA_JAVA.zip`, an archive of the related Java basic program material.
 
 ## Running the example
 
